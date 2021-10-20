@@ -1,0 +1,20 @@
+{
+  "name": "gauthey-my-exercises",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthieuGauthey/gauthey-my-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthieuGauthey/gauthey-my-exercises/issues"
+  },
+  "homepage": "https://github.com/MatthieuGauthey/gauthey-my-exercises#readme"
+}

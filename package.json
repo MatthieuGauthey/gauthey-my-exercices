@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatthieuGauthey/gauthey-my-exercises.git"
+    "url": "git+https://github.com/MatthieuGauthey/gauthey-my-exercices.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatthieuGauthey/gauthey-my-exercises/issues"
+    "url": "https://github.com/MatthieuGauthey/gauthey-my-exercices/issues"
   },
-  "homepage": "https://github.com/MatthieuGauthey/gauthey-my-exercises#readme"
+  "homepage": "https://github.com/MatthieuGauthey/gauthey-my-exercices#readme"
 }

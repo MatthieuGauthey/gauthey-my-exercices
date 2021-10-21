@@ -1,4 +1,4 @@
-import { my_display_alpha } from "./exercise-1.js"
+import { my_display_alpha } from "./exercice-1.js"
 
 export const my_display_alpha_reverse = () => {
     var str = my_display_alpha();
